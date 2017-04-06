@@ -1,0 +1,22 @@
+{
+  "name": "jsonfn",
+  "version": "1.0.0",
+  "description": "javascript plugin to stringify, parse and clone javascript objects with Functions, RegExp and Date.",
+  "main": "jsonfn.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmatichs/jsonfn.git"
+  },
+  "author": "Vadim Kiryukhin <vkiryukhin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmatichs/jsonfn/issues"
+  },
+  "homepage": "https://github.com/npmatichs/jsonfn#readme"
+}
